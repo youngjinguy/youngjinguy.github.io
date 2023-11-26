@@ -19,7 +19,7 @@ linkedin_username: 영진-김-87530813a
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
-permalink: pretty
+permalink: none
 paginate: 10
 exclude:
   [
